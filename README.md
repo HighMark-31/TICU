@@ -74,3 +74,5 @@ If you are:
 - A developer passionate about disruption  
 - An investor looking for the next paradigm shift  
 - Or a founder seeking frameworks for growth
+
+Note : Personally written by HighMark [Marco N.] in Italian and translated into English with ChatGPT - If you find any errors, please report them to me by contacting me :) !
