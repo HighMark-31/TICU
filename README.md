@@ -3,6 +3,8 @@
 Welcome to the **TICU Model** repository.  
 This project is not just code – it’s a **vision** for how startups can grow into global leaders by creating what doesn’t exist yet and making it accessible to everyone.  
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="🇮🇹" width="24"> [ITALIAN VERSION HERE](README_IT.md)  
+
 TICU is an acronym that stands for:  
 - **T** → Technology  
 - **I** → Innovation  
