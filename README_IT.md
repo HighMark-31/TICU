@@ -3,6 +3,8 @@
 Benvenuti nel repository del **Modello TICU**.
 Questo progetto non è solo codice – è una **visione** di come le startup possono crescere fino a diventare leader globali creando ciò che ancora non esiste e rendendolo accessibile a tutti.
 
+## [Leggi la versione PDF COMPLETA QUI](https://github.com/HighMark-31/TICU/blob/main/TICU%20Marketing%20Vision%20Model%20%E2%80%93%20A%20Framework%20for%20Disruptive%20Innovation%20EN.pdf)
+
 TICU è un acronimo che sta per:
 - **T** → Tecnologia
 - **I** → Innovazione
@@ -76,3 +78,4 @@ Se sei:
 - O un fondatore in cerca di framework per la crescita
 
 Nota: Scritto personalmente da HighMark [Marco N.] in italiano e tradotto in inglese con ChatGPT - Se trovi errori, segnalameli contattandomi :) !
+
