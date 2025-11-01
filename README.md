@@ -5,6 +5,8 @@ This project is not just code – it’s a **vision** for how startups can grow 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" alt="🇮🇹" width="24"> [ITALIAN VERSION HERE](README_IT.md)  
 
+## [See the FULL PDF version HERE](https://github.com/HighMark-31/TICU/blob/main/TICU%20Marketing%20Vision%20Model%20%E2%80%93%20A%20Framework%20for%20Disruptive%20Innovation%20EN.pdf)
+
 TICU is an acronym that stands for:  
 - **T** → Technology  
 - **I** → Innovation  
