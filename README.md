@@ -80,3 +80,5 @@ If you are:
 - Or a founder seeking frameworks for growth
 
 Note : Personally written by HighMark [Marco N.] in Italian and translated into English with ChatGPT - If you find any errors, please report them to me by contacting me :) !
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HighMark-31.TICU)
